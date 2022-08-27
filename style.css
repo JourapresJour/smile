@@ -39,7 +39,7 @@ body
 }
 .container .circle.circle2
 {
-    background: url(/Image/drone.jpg);
+    background: url(./Image/drone.jpg);
     clip-path: circle(100px at center);
 }
 .container .circle.circle3
