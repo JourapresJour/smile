@@ -34,7 +34,7 @@ body
 }
 .container .circle.circle1
 {
-    background: url(/Image/autumn.jpg);
+    background: url(./Image/autumn.jpg);
     clip-path: circle(100px at 25% center);
 }
 .container .circle.circle2
@@ -44,7 +44,7 @@ body
 }
 .container .circle.circle3
 {
-    background: url(/Image/smile.jpg);
+    background: url(./Image/smile.jpg);
     clip-path: circle(100px at 75% center);
 }
 
